@@ -1,0 +1,30 @@
+::selection {
+  background: indigo;
+  color: pink;
+}
+
+:root {
+  background: #edd;
+  color: #100;
+}
+
+:link {
+  background: #eed;
+  color: blueviolet;
+}
+
+:visited {
+  background: #eed;
+  color: darkviolet;
+}
+
+:any-link:hover {
+  background: oldlace;
+  color: darkorchid;
+  text-decoration-color: darkslateblue;
+}
+
+mark {
+  background: salmon;
+  color: #100;
+}
